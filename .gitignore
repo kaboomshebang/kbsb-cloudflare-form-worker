@@ -1,3 +1,13 @@
+/target
+/dist
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+worker/
+.cargo-ok
+
 # Logs
 logs
 *.log
