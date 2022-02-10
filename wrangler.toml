@@ -1,7 +1,7 @@
 name = "kbsb-cloudflare-form-worker"
 type = "javascript"
 
-account_id = ""
+account_id = "26e4da6158b7c941dc9517194d07125c"
 workers_dev = true
 route = ""
 zone_id = ""
