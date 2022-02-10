@@ -28,5 +28,6 @@ wrangler publish # to Cloudflare global
 # Resources
 
 https://developers.cloudflare.com/workers/
+https://developers.cloudflare.com/workers/get-started/guide
 https://developers.cloudflare.com/workers/examples
 https://developers.cloudflare.com/workers/cli-wrangler
