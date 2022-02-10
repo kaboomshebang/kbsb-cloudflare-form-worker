@@ -16,6 +16,10 @@ cargo install wrangler
 wrangler login
 wrangler generate my-app https://github.com/cloudflare/worker-template
 
+# configure the wrangler.toml
+# set values for: name, type, account_id, workers_dev
+# https://developers.cloudflare.com/workers/get-started/guide#optional-configure-for-deploying-to-a-registered-domain
+
 # deploy
 wrangler dev # to workers.dev
 wrangler publish # to Cloudflare global
