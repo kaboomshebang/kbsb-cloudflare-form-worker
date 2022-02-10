@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "kbsb-cloudflare-form-worker",
+  "version": "1.0.0",
+  "description": "Process an HTML form with a Cloudflare Worker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Fred Snyder <safe.sand1626@fastmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
